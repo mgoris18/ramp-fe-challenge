@@ -137,10 +137,6 @@ hr.RampBreak--l {
   cursor: pointer;
 }
 
-.RampInputCheckbox--label-disabled {
-  cursor: progress;
-}
-
 .RampInputCheckbox--label-checked:before {
   content: " ";
   width: 100%;
